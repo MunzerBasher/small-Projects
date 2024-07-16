@@ -1,0 +1,9 @@
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\bin\Debug\DataLayer.dll
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\bin\Debug\DataLayer.pdb
+C:\Users\munzer\Documents\projects\ToDoListApp\ToDoListApp\BuisnessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete

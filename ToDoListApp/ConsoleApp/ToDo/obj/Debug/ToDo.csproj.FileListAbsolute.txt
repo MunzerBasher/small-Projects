@@ -1,0 +1,10 @@
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\bin\Debug\ToDo.exe.config
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\bin\Debug\ToDo.exe
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\bin\Debug\ToDo.pdb
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\bin\Debug\ToDoBuisnessLayer.dll
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\bin\Debug\ToDoBuisnessLayer.pdb
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\obj\Debug\ToDo.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\obj\Debug\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\obj\Debug\ToDo.csproj.CopyComplete
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\obj\Debug\ToDo.exe
+C:\Users\munzer\Documents\projects\ToDoListApp\ConsoleApp\ToDo\obj\Debug\ToDo.pdb

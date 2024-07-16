@@ -1,0 +1,8 @@
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\bin\Debug\MyFirstControlLibrary1.dll
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\bin\Debug\MyFirstControlLibrary1.pdb
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\obj\Debug\MyFirstControlLibrary1.csproj.AssemblyReference.cache
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\obj\Debug\MyFirstControlLibrary1.UserControl1.resources
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\obj\Debug\MyFirstControlLibrary1.csproj.GenerateResource.cache
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\obj\Debug\MyFirstControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\obj\Debug\MyFirstControlLibrary1.dll
+C:\Users\munzer\Documents\projects\MyFirstControlLibrary1\obj\Debug\MyFirstControlLibrary1.pdb
